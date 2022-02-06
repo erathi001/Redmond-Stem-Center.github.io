@@ -1034,7 +1034,7 @@
     transition: all 0.4s ease 0s;
 }
   .socialbutton{
-    text-align: left;
+    text-align: center;
       color: #171D21 !important;
     font-family: 'wavehaus';
       background: #F2F5EA;
@@ -1042,11 +1042,12 @@
       border: 4px solid black !important;
       display: inline-block;
       transition: all 0.4s ease 0s;
-    width: 600px;
+    width: 300px;
+    height: 300px;
   }
   .socialbutton:hover{
       color: #ffffff !important;
-      background: #FF5964;
+      background: #000000;
       border-color: #FF5964 !important;
       transition: all 0.4s ease 0s;
   }
